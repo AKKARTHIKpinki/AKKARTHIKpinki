@@ -1,0 +1,10 @@
+version: 2
+models:
+  - name: first
+    description: siva test
+    columns:
+      - name: EMPLOYEEID
+        description: primary key
+
+
+
