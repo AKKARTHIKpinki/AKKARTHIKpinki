@@ -1,0 +1,8 @@
+version: 2
+
+sources:
+  - name: my_database
+    database: san
+    schema: lee
+    tables:
+      - name: orders
